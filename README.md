@@ -1,6 +1,7 @@
 # Twitter - Part I
 
 This is a basic twitter app to read your tweets.
+This is how a pull is made
 
 Time spent: **7** hours spent in total
 
